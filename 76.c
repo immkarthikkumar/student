@@ -14,6 +14,6 @@ count++;
 if(count==0)
 printf("It is a prime number");
 else
-printf("Not a prime number");
+printf("composite number");
 return 0;
 }
