@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-    int a;
+    int k;
     printf("enter the number:");
-    scanf("%d",&a);
-    printf("%c",a+64);
+    scanf("%d",&k);
+    printf("%c",k+64);
 }
